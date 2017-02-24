@@ -12,10 +12,8 @@ gem 'rails', '~> 5.0.1'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'bcrypt', '~> 3.1.7'
-
-gem 'will_paginate', '~> 3.1.0'
-gem 'will_paginate-bootstrap'
+gem 'stock_quote'
+gem 'font-awesome-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
